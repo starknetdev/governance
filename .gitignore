@@ -1,0 +1,13 @@
+node_modules
+.env
+
+#Nile files
+goerli.deployments.txt
+accounts.json
+node.json
+
+#Python artifacts
+__pycache__/
+.pytest_cache
+.venv
+.python-version
